@@ -1,1 +1,3 @@
-asa
+public class MyClass {
+int i= 10;
+}
